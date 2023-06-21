@@ -1,0 +1,14 @@
+header, footer {
+    background-color: rgb(108,117,125);
+}
+
+#cor_nav {
+    color: black;
+    background-color: rgb(236, 231, 231);
+}
+
+.dotada {
+    color: white;
+    display: block;
+    border-top: 1px dotted #afacac;
+}
